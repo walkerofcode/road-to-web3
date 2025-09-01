@@ -1,0 +1,561 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8661A65TMI81055503566E5R /* Pods_Airova.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E2GWW16B77RL9P4I1RW8253 /* Pods_Airova.framework */; };
+		AW63161974B8318955C0148J /* Grace_body_soft_intimateClassic_day_silkController.swift in Sources */ = {isa = PBXBuildFile; fileRef = QW7637XL2R9678M2N50132Q2 /* Grace_body_soft_intimateClassic_day_silkController.swift */; };
+		BSC3ARX934U3B50852HG5981 /* Sheer_night_underwearView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FU330B9GD171Q96O011R7E5X /* Sheer_night_underwearView.swift */; };
+		CP7N600610098Q7JU5ZW79V0 /* Comfort_bust_sheer_angelController.swift in Sources */ = {isa = PBXBuildFile; fileRef = TU09GF2K85234D700155CZ4D /* Comfort_bust_sheer_angelController.swift */; };
+		CV4X2601Q9KE3860LR616994 /* Sexy_day_charmController.swift in Sources */ = {isa = PBXBuildFile; fileRef = TY5I842Z523GU34LQ298YW9S /* Sexy_day_charmController.swift */; };
+		DEVJ6J74524SIFN6NP6J5LHF /* Intimate_lingerieObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = VJ63988V070VF254BN54J561 /* Intimate_lingerieObject.swift */; };
+		EC5CTMW95F73663E7U20DM25 /* Angel_underwear_charm_softLingerie_night_beauty_charmObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = TJZ4149X7584461D2MMW3E3O /* Angel_underwear_charm_softLingerie_night_beauty_charmObject.swift */; };
+		EX2N8615838Q416405504PA3 /* Dream_dreamBust_soft_pureObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = XU56L045V362570XI6O8SG71 /* Dream_dreamBust_soft_pureObject.swift */; };
+		HRR35063932A90C80574475B /* Style_bra_delicate_styleController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ETY9031K25I479C8106450F0 /* Style_bra_delicate_styleController.swift */; };
+		IKWMGO60KC9N998NTLJ38670 /* Night_day_elegantLingerie_curve_intimate_pureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BS3RC1L51PBM84EN83YF9F05 /* Night_day_elegantLingerie_curve_intimate_pureView.swift */; };
+		JI846U337BH6E5J0Z1420702 /* Pure_bra_secret_classicTextController.swift in Sources */ = {isa = PBXBuildFile; fileRef = HSS8OH3644LI1Q89609KN290 /* Pure_bra_secret_classicTextController.swift */; };
+		JU6Z30XZ945891H7X3817412 /* Soft_body_lingerie_curveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = GAC2K4R7943A8348H93440A2 /* Soft_body_lingerie_curveView.swift */; };
+		ML52318394K3159W23HM8673 /* Sexy_night_dayController.swift in Sources */ = {isa = PBXBuildFile; fileRef = RV281J6U29E03RU4SI5FD0P2 /* Sexy_night_dayController.swift */; };
+		MZ2130XOY49479J4672LJ54J /* Silk_comfort_underwear_softController.swift in Sources */ = {isa = PBXBuildFile; fileRef = UZF542MZ0DPE8222K8D7H095 /* Silk_comfort_underwear_softController.swift */; };
+		NX9G5Q9M1914522K0D5GTTIS /* Day_soft_intimate_dreamView.swift in Sources */ = {isa = PBXBuildFile; fileRef = UFPR8DK4QWT89J18JJ61B629 /* Day_soft_intimate_dreamView.swift */; };
+		OM81I44XF2T54X4I2BN078X6 /* Fashion_elegant_feminine_laceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = JV380VG5FMZ1T465SKV515AH /* Fashion_elegant_feminine_laceController.swift */; };
+		QC61543B3565652405258H31 /* Pure_lace_luxuryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FX3X031037L0697XY734832W /* Pure_lace_luxuryView.swift */; };
+		TY9KB60FI24MK00J5SBN3XT4 /* Beauty_secret_fashion_silkCollectionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DQ1HK83516A854488678ZIA7 /* Beauty_secret_fashion_silkCollectionController.swift */; };
+		VA930728CG8034IL3E2EJO7U /* Underwear_bust_elegantBra_body_graceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = YU32417874383VH9C34Q8891 /* Underwear_bust_elegantBra_body_graceView.swift */; };
+		VT7328S11763X964L59N783U /* Soft_grace_classic_sexyPure_dream_sheerObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = FN167V03SP99535KGD2M0842 /* Soft_grace_classic_sexyPure_dream_sheerObject.swift */; };
+		WC7293255A13P63D4DA6E6Z3 /* Sheer_sexy_elegant_bustObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = YNP5T116883MJ6D252E731AB /* Sheer_sexy_elegant_bustObject.swift */; };
+		YX0V156M05TQU74S066163T4 /* MessageObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = ZB00T14L5614HK34372V634P /* MessageObject.swift */; };
+		YZ4O3R071E8V59547918K40Z /* Fashion_charm_charmPure_charm_pure_luxuryObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = RPRRV15657F856U53L808264 /* Fashion_charm_charmPure_charm_pure_luxuryObject.swift */; };
+		ZB206042937Z15903332801S /* Secret_delicate_body_delicateObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = PEV72T9700735O9723SBZ3S2 /* Secret_delicate_body_delicateObject.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		07641579534T6O51TG71EU49 /* Pods-Airova.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Airova.debug.xcconfig"; path = "Target Support Files/Pods-Airova/Pods-Airova.debug.xcconfig"; sourceTree = "<group>"; };
+		0A3BY4GQ632Y050AL4SF625K /* Pods-Airova.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Airova.release.xcconfig"; path = "Target Support Files/Pods-Airova/Pods-Airova.release.xcconfig"; sourceTree = "<group>"; };
+		88462T121V061O0J73085MU7 /* Airova.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Airova.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8E2GWW16B77RL9P4I1RW8253 /* Pods_Airova.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Airova.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BS3RC1L51PBM84EN83YF9F05 /* Night_day_elegantLingerie_curve_intimate_pureView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Night_day_elegantLingerie_curve_intimate_pureView.swift; sourceTree = "<group>"; };
+		DQ1HK83516A854488678ZIA7 /* Beauty_secret_fashion_silkCollectionController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Beauty_secret_fashion_silkCollectionController.swift; sourceTree = "<group>"; };
+		ETY9031K25I479C8106450F0 /* Style_bra_delicate_styleController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Style_bra_delicate_styleController.swift; sourceTree = "<group>"; };
+		FN167V03SP99535KGD2M0842 /* Soft_grace_classic_sexyPure_dream_sheerObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Soft_grace_classic_sexyPure_dream_sheerObject.swift; sourceTree = "<group>"; };
+		FU330B9GD171Q96O011R7E5X /* Sheer_night_underwearView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Sheer_night_underwearView.swift; sourceTree = "<group>"; };
+		FX3X031037L0697XY734832W /* Pure_lace_luxuryView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Pure_lace_luxuryView.swift; sourceTree = "<group>"; };
+		GAC2K4R7943A8348H93440A2 /* Soft_body_lingerie_curveView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Soft_body_lingerie_curveView.swift; sourceTree = "<group>"; };
+		HSS8OH3644LI1Q89609KN290 /* Pure_bra_secret_classicTextController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Pure_bra_secret_classicTextController.swift; sourceTree = "<group>"; };
+		JV380VG5FMZ1T465SKV515AH /* Fashion_elegant_feminine_laceController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Fashion_elegant_feminine_laceController.swift; sourceTree = "<group>"; };
+		PEV72T9700735O9723SBZ3S2 /* Secret_delicate_body_delicateObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Secret_delicate_body_delicateObject.swift; sourceTree = "<group>"; };
+		QW7637XL2R9678M2N50132Q2 /* Grace_body_soft_intimateClassic_day_silkController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Grace_body_soft_intimateClassic_day_silkController.swift; sourceTree = "<group>"; };
+		RPRRV15657F856U53L808264 /* Fashion_charm_charmPure_charm_pure_luxuryObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Fashion_charm_charmPure_charm_pure_luxuryObject.swift; sourceTree = "<group>"; };
+		RV281J6U29E03RU4SI5FD0P2 /* Sexy_night_dayController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Sexy_night_dayController.swift; sourceTree = "<group>"; };
+		TJZ4149X7584461D2MMW3E3O /* Angel_underwear_charm_softLingerie_night_beauty_charmObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Angel_underwear_charm_softLingerie_night_beauty_charmObject.swift; sourceTree = "<group>"; };
+		TU09GF2K85234D700155CZ4D /* Comfort_bust_sheer_angelController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Comfort_bust_sheer_angelController.swift; sourceTree = "<group>"; };
+		TY5I842Z523GU34LQ298YW9S /* Sexy_day_charmController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Sexy_day_charmController.swift; sourceTree = "<group>"; };
+		UFPR8DK4QWT89J18JJ61B629 /* Day_soft_intimate_dreamView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Day_soft_intimate_dreamView.swift; sourceTree = "<group>"; };
+		UZF542MZ0DPE8222K8D7H095 /* Silk_comfort_underwear_softController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Silk_comfort_underwear_softController.swift; sourceTree = "<group>"; };
+		VJ63988V070VF254BN54J561 /* Intimate_lingerieObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Intimate_lingerieObject.swift; sourceTree = "<group>"; };
+		XU56L045V362570XI6O8SG71 /* Dream_dreamBust_soft_pureObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Dream_dreamBust_soft_pureObject.swift; sourceTree = "<group>"; };
+		YNP5T116883MJ6D252E731AB /* Sheer_sexy_elegant_bustObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Sheer_sexy_elegant_bustObject.swift; sourceTree = "<group>"; };
+		YU32417874383VH9C34Q8891 /* Underwear_bust_elegantBra_body_graceView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = Underwear_bust_elegantBra_body_graceView.swift; sourceTree = "<group>"; };
+		ZB00T14L5614HK34372V634P /* MessageObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = MessageObject.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		88Y25F49945C84TC94T72G71 /* Exceptions for "Airova" folder in "Airova" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 88BHK3182P1Q007R5ZJ0827W /* Airova */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		88Y089Y0XGF0270830664E66 /* Airova */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				88Y25F49945C84TC94T72G71 /* Exceptions for "Airova" folder in "Airova" target */,
+			);
+			path = Airova;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		88199Y3N425REJ06RR8X2102 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8661A65TMI81055503566E5R /* Pods_Airova.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		14H00Z42V2ESCAD159F54X5M /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8E2GWW16B77RL9P4I1RW8253 /* Pods_Airova.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		88189DF2DI84514359PA32X8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				88462T121V061O0J73085MU7 /* Airova.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		88656939C8TV57D387G894PA = {
+			isa = PBXGroup;
+			children = (
+				88Y089Y0XGF0270830664E66 /* Airova */,
+				88189DF2DI84514359PA32X8 /* Products */,
+				BBM8P1QU35805K23HZ9250RV /* Pods */,
+				14H00Z42V2ESCAD159F54X5M /* Frameworks */,
+				QC9G006M2101S52975551989 /* read */,
+			);
+			sourceTree = "<group>";
+		};
+		BBM8P1QU35805K23HZ9250RV /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				07641579534T6O51TG71EU49 /* Pods-Airova.debug.xcconfig */,
+				0A3BY4GQ632Y050AL4SF625K /* Pods-Airova.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		QC9G006M2101S52975551989 /* read */ = {
+			isa = PBXGroup;
+			children = (
+				ZB00T14L5614HK34372V634P /* MessageObject.swift */,
+				HSS8OH3644LI1Q89609KN290 /* Pure_bra_secret_classicTextController.swift */,
+				XU56L045V362570XI6O8SG71 /* Dream_dreamBust_soft_pureObject.swift */,
+				QW7637XL2R9678M2N50132Q2 /* Grace_body_soft_intimateClassic_day_silkController.swift */,
+				FU330B9GD171Q96O011R7E5X /* Sheer_night_underwearView.swift */,
+				UFPR8DK4QWT89J18JJ61B629 /* Day_soft_intimate_dreamView.swift */,
+				YNP5T116883MJ6D252E731AB /* Sheer_sexy_elegant_bustObject.swift */,
+				JV380VG5FMZ1T465SKV515AH /* Fashion_elegant_feminine_laceController.swift */,
+				DQ1HK83516A854488678ZIA7 /* Beauty_secret_fashion_silkCollectionController.swift */,
+				RV281J6U29E03RU4SI5FD0P2 /* Sexy_night_dayController.swift */,
+				BS3RC1L51PBM84EN83YF9F05 /* Night_day_elegantLingerie_curve_intimate_pureView.swift */,
+				YU32417874383VH9C34Q8891 /* Underwear_bust_elegantBra_body_graceView.swift */,
+				GAC2K4R7943A8348H93440A2 /* Soft_body_lingerie_curveView.swift */,
+				ETY9031K25I479C8106450F0 /* Style_bra_delicate_styleController.swift */,
+				UZF542MZ0DPE8222K8D7H095 /* Silk_comfort_underwear_softController.swift */,
+				FN167V03SP99535KGD2M0842 /* Soft_grace_classic_sexyPure_dream_sheerObject.swift */,
+				FX3X031037L0697XY734832W /* Pure_lace_luxuryView.swift */,
+				TU09GF2K85234D700155CZ4D /* Comfort_bust_sheer_angelController.swift */,
+				TJZ4149X7584461D2MMW3E3O /* Angel_underwear_charm_softLingerie_night_beauty_charmObject.swift */,
+				VJ63988V070VF254BN54J561 /* Intimate_lingerieObject.swift */,
+				RPRRV15657F856U53L808264 /* Fashion_charm_charmPure_charm_pure_luxuryObject.swift */,
+				PEV72T9700735O9723SBZ3S2 /* Secret_delicate_body_delicateObject.swift */,
+				TY5I842Z523GU34LQ298YW9S /* Sexy_day_charmController.swift */,
+			);
+			path = read;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		88BHK3182P1Q007R5ZJ0827W /* Airova */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 88V95513N2635U0L1B754780 /* Build configuration list for PBXNativeTarget "Airova" */;
+			buildPhases = (
+				80AU37Q14X28E62193P81D32 /* [CP] Check Pods Manifest.lock */,
+				88GN76N56SB432Q43CYOWQKX /* Sources */,
+				88199Y3N425REJ06RR8X2102 /* Frameworks */,
+				88F3N8407H1L6602617KT03X /* Resources */,
+				B39Y156T3D3620FX248OW913 /* [CP] Embed Pods Frameworks */,
+				A77T9E7N96132675G8L8P265 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				88Y089Y0XGF0270830664E66 /* Airova */,
+			);
+			name = Airova;
+			productName = Airova;
+			productReference = 88462T121V061O0J73085MU7 /* Airova.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		88899M57XC29UJ4124093H59 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					88BHK3182P1Q007R5ZJ0827W = {
+						CreatedOnToolsVersion = 16.4;
+					};
+				};
+			};
+			buildConfigurationList = 880I9X15X0X696820447AG41 /* Build configuration list for PBXProject "Airova" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 88656939C8TV57D387G894PA;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 88189DF2DI84514359PA32X8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				88BHK3182P1Q007R5ZJ0827W /* Airova */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		88F3N8407H1L6602617KT03X /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		80AU37Q14X28E62193P81D32 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Airova-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A77T9E7N96132675G8L8P265 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Airova/Pods-Airova-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Airova/Pods-Airova-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Airova/Pods-Airova-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B39Y156T3D3620FX248OW913 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Airova/Pods-Airova-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Airova/Pods-Airova-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Airova/Pods-Airova-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		88GN76N56SB432Q43CYOWQKX /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				YX0V156M05TQU74S066163T4 /* MessageObject.swift in Sources */,
+				JI846U337BH6E5J0Z1420702 /* Pure_bra_secret_classicTextController.swift in Sources */,
+				EX2N8615838Q416405504PA3 /* Dream_dreamBust_soft_pureObject.swift in Sources */,
+				AW63161974B8318955C0148J /* Grace_body_soft_intimateClassic_day_silkController.swift in Sources */,
+				BSC3ARX934U3B50852HG5981 /* Sheer_night_underwearView.swift in Sources */,
+				NX9G5Q9M1914522K0D5GTTIS /* Day_soft_intimate_dreamView.swift in Sources */,
+				WC7293255A13P63D4DA6E6Z3 /* Sheer_sexy_elegant_bustObject.swift in Sources */,
+				OM81I44XF2T54X4I2BN078X6 /* Fashion_elegant_feminine_laceController.swift in Sources */,
+				TY9KB60FI24MK00J5SBN3XT4 /* Beauty_secret_fashion_silkCollectionController.swift in Sources */,
+				ML52318394K3159W23HM8673 /* Sexy_night_dayController.swift in Sources */,
+				IKWMGO60KC9N998NTLJ38670 /* Night_day_elegantLingerie_curve_intimate_pureView.swift in Sources */,
+				VA930728CG8034IL3E2EJO7U /* Underwear_bust_elegantBra_body_graceView.swift in Sources */,
+				JU6Z30XZ945891H7X3817412 /* Soft_body_lingerie_curveView.swift in Sources */,
+				HRR35063932A90C80574475B /* Style_bra_delicate_styleController.swift in Sources */,
+				MZ2130XOY49479J4672LJ54J /* Silk_comfort_underwear_softController.swift in Sources */,
+				VT7328S11763X964L59N783U /* Soft_grace_classic_sexyPure_dream_sheerObject.swift in Sources */,
+				QC61543B3565652405258H31 /* Pure_lace_luxuryView.swift in Sources */,
+				CP7N600610098Q7JU5ZW79V0 /* Comfort_bust_sheer_angelController.swift in Sources */,
+				EC5CTMW95F73663E7U20DM25 /* Angel_underwear_charm_softLingerie_night_beauty_charmObject.swift in Sources */,
+				DEVJ6J74524SIFN6NP6J5LHF /* Intimate_lingerieObject.swift in Sources */,
+				YZ4O3R071E8V59547918K40Z /* Fashion_charm_charmPure_charm_pure_luxuryObject.swift in Sources */,
+				ZB206042937Z15903332801S /* Secret_delicate_body_delicateObject.swift in Sources */,
+				CV4X2601Q9KE3860LR616994 /* Sexy_day_charmController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		886O831X2T5273126PS74N97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 07641579534T6O51TG71EU49 /* Pods-Airova.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Airova/Airova.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Airova/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Airvoa requires camera permission for video calls";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Airova requires your consent to obtain location information when using it in order to upload photos or update avatars. If prohibited, you will not be able to publish works/update avatars.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Airova needs your permission to access the microphone. If blocked, you will not be able to send audio messages to users.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Airova needs to access the photo album to select pictures and videos";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aiaromatherapysharing.airova;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		88P9674ZW5ILD12183994620 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0A3BY4GQ632Y050AL4SF625K /* Pods-Airova.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Airova/Airova.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Airova/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Airvoa requires camera permission for video calls";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Airova requires your consent to obtain location information when using it in order to upload photos or update avatars. If prohibited, you will not be able to publish works/update avatars.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Airova needs your permission to access the microphone. If blocked, you will not be able to send audio messages to users.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Airova needs to access the photo album to select pictures and videos";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aiaromatherapysharing.airova;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		88SLZP2523M813I713L100K2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		88T502Z1V2068B104302S16V /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		880I9X15X0X696820447AG41 /* Build configuration list for PBXProject "Airova" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88SLZP2523M813I713L100K2 /* Debug */,
+				88T502Z1V2068B104302S16V /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		88V95513N2635U0L1B754780 /* Build configuration list for PBXNativeTarget "Airova" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				886O831X2T5273126PS74N97 /* Debug */,
+				88P9674ZW5ILD12183994620 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 88899M57XC29UJ4124093H59 /* Project object */;
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Privacy - Location Always Usage Description</key>
+	<string>Airova requires your consent to obtain location information when using it in order to upload photos or update avatars. If prohibited, you will not be able to publish works/update avatars.</string>
+	<key>Privacy - Location Always and When In Use Usage Description</key>
+	<string>Airova requires your consent to obtain location information when using it in order to upload photos or update avatars. If prohibited, you will not be able to publish works/update avatars.</string>
+	<key>Privacy - Location When In Use Usage Description</key>
+	<string>Airova requires your consent to obtain location information when using it in order to upload photos or update avatars. If prohibited, you will not be able to publish works/update avatars.</string>
+	<key>Privacy - Microphone Usage Description</key>
+	<string>Airova needs your permission to access the microphone. If blocked, you will not be able to send audio messages to users.</string>
+	<key>Privacy - Photo Library Additions Usage Description</key>
+	<string>Airova needs your consent to access the album in order to save the work. If it is prohibited, you will not be able to save your work to the album.</string>
+	<key>Privacy - Photo Library Usage Description</key>
+	<string>Airova needs your consent to access the album to select photos to upload/publish works/update avatars. If prohibited, you will not be able to upload selected photos to upload/publish works/update avatars.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Alegreya-VariableFont_wght.ttf</string>
+		<string>Alegreya-Bold.ttf</string>
+	</array>
+</dict>
+</plist>
